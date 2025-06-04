@@ -1,0 +1,6 @@
+export const login= 'http://localhost:7777/api/auth/login'
+export const google_login= 'http://localhost:7777/api/auth/google'
+export const logout= 'http://localhost:7777/api/auth/logout'
+export const signup_initiate='http://localhost:7777/api/auth/signup/initiate'
+export const signup_verify='http://localhost:7777/api/auth/signup/verify'
+export const auth_me='http://localhost:7777/api/auth/me'
